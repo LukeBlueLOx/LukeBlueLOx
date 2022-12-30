@@ -6,4 +6,4 @@
 
 https://blox-land.herokuapp.com
 
-#Datawrapper #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
+#Datawrapper #Plotly #Dash #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
