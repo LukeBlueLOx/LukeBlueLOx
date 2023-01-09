@@ -1,5 +1,4 @@
-<div align="center">
-<hr>
+<div align="center">  
 <img src="https://raw.githubusercontent.com/LukeBlueLOx/Django-BLOX-Land-Post_List.html/main/BLOX-VC.png" width="" height=""/>
 <br>
 <br>
@@ -16,7 +15,6 @@ https://blox-land.herokuapp.com
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBlueLOx&hide_border=true&theme=transparent&layout=compact&langs_count=10" /> |
 https://github.com/anuraghazra/github-readme-stats
 
+
 # ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 </div>
-<hr>
-
