@@ -12,7 +12,7 @@ https://blox-land.herokuapp.com
 
 | My Most Used Languages | 
 | ---- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=solarized-dark&layout=compact)](https://github.com/LukeBlueLOx/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=solarized-dark&layout=compact&langs_count=6)](https://github.com/LukeBlueLOx/github-readme-stats) |
   
 https://github.com/anuraghazra/github-readme-stats
   
