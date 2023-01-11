@@ -10,7 +10,7 @@ https://blox-land.herokuapp.com
 
 #Plotly #Dash #Datawrapper #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=solarized-dark&layout=compact&langs_count=6"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=solarized-dark&layout=compact&langs_count=8"/>
 <br>  
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LukeBlueLOx&show_icons=true&theme=solarized-dark"/>
   
