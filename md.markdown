@@ -1,18 +1,47 @@
-<div align="center">  
-<img src="" width="" height=""/>
-<br>
-<br>
-#Python #Django #Ubuntu #Heroku #PostgreSQL #Postgres #SQL #GitHub #ML #AI #RPA
+Heading
+=======
 
-#PORTFOLIO - #OpenToWork
+Sub-heading
+-----------
 
-https://blox-land.herokuapp.com
+# Alternative heading
 
-#Plotly #Dash #Datawrapper #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
+## Alternative sub-heading
 
-<img width="50%" src=""/>
-<br>  
-<img width="50%" src=""/>
+Paragraphs are separated 
+by a blank line.
 
-# ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
-</div>
+Two spaces at the end of a line  
+produce a line break.
+
+
+Text attributes _italic_, **bold**, `monospace`.
+
+Horizontal rule:
+
+---
+
+
+Bullet lists nested within numbered list:
+
+  1. fruits
+     * apple
+     * banana
+  2. vegetables
+     - carrot
+     - broccoli
+
+
+A [link](http://example.com).
+
+![Image](Icon-pictures.png "icon")
+
+> Markdown uses email-style
+characters for blockquoting.
+>
+> Multiple paragraphs need to be prepended individually.
+
+Most inline <abbr title="Hypertext Markup Language">HTML</abbr> tags are supported.
+
+
+https://en.wikipedia.org/wiki/Markdown
