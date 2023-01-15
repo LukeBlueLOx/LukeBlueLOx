@@ -1,7 +1,23 @@
 <div align="center">  
 <img src="https://raw.githubusercontent.com/LukeBlueLOx/Django-BLOX-Land-Post_List.html/main/BLOX-VC.png" width="" height=""/>
+</div>
 <br>
-<br>
+
+```
+"""PEP 8 – Style Guide for Python Code 
+https://peps.python.org/pep-0008
+Is this style acceptable by convention and accepted by the python community ???
+Łukasz "Luke Blue" Andruszkiewicz
+✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
+"""
+```
+
+For this my python code example: 
+
+https://github.com/SCV2PL/SCV2PL.GitHub.IO/blob/main/V3/import_csv_data_from_urls.py
+
+--- 
+<div align="center"> 
 #Python #Django #Ubuntu #Heroku #PostgreSQL #Postgres #SQL #GitHub #ML #AI #RPA
 
 #PORTFOLIO - #OpenToWork
