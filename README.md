@@ -7,6 +7,8 @@
 #PORTFOLIO - #OpenToWork
 
 https://blox-land.herokuapp.com
+  
+https://www.facebook.com/Blue.LOx.2020/posts/pfbid02CZJgCbf6hLWZn4VkVr9S7RcxRjFZB2iQJ7gVzrYuQVL2u3oAfLqYb3kb3YcKkiCul
 
 #Plotly #Dash #Datawrapper #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
 
