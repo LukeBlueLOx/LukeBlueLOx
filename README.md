@@ -25,7 +25,8 @@ https://www.facebook.com/Blue.LOx.2020/posts/pfbid02pLWxZQ3s6HJYzDZfbCkz4JMZUfq1
 
 --- 
 <div align="center"> 
-#Python #Django #Ubuntu #Heroku #PostgreSQL #Postgres #SQL #GitHub #ML #AI #RPA
+
+#Python #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Plotly #Dash #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
 #PORTFOLIO - #OpenToWork
 
@@ -33,7 +34,7 @@ https://blox-land.herokuapp.com
   
 https://www.facebook.com/Blue.LOx.2020/posts/pfbid02CZJgCbf6hLWZn4VkVr9S7RcxRjFZB2iQJ7gVzrYuQVL2u3oAfLqYb3kb3YcKkiCul
 
-#Plotly #Dash #Datawrapper #GoogleSheets #GoogleCloud #GCP #Data #DataVisualization #DataVisWriter #DataStorytelling #DataApplication #DataApplicationArchitect #DataScience #DataEngineering #BigData #DataMining #OpenData #OtwarteDane #GoogleAnalytics
+#Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
 <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=github_dark&layout=compact&langs_count=10&count_private=true"/>
 <br>  
