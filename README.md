@@ -1,32 +1,11 @@
 <div align="center">  
 <img src="https://raw.githubusercontent.com/LukeBlueLOx/Django-BLOX-Land-Post_List.html/main/BLOX-VC.png" width="" height=""/>
 </div>
-<br>
-
-```
-"""PEP 8 – Style Guide for Python Code
-
-https://peps.python.org/pep-0008
-
-Is this style acceptable by convention and accepted by the python community ???
-Łukasz "Luke Blue" Andruszkiewicz
-✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
-2023-01-17 - After my #BrainFuck: my final interpretation of #Python #PEP8.
-#PyCharm #IDE
-✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
-"""
-```
-
-For this my python code example: 
-
-https://github.com/SCV2PL/SCV2PL.GitHub.IO/blob/main/V3/import_csv_data_from_urls.py
-
-https://www.facebook.com/Blue.LOx.2020/posts/pfbid02pLWxZQ3s6HJYzDZfbCkz4JMZUfq1oiwdkTduu3Pd4kvcuEAgLnipdqmsNQWfwLKEl
 
 --- 
 <div align="center"> 
 
-#Python #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Plotly #Dash #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
+#Python #Plotly #Dash #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
 #PORTFOLIO - #OpenToWork
 
