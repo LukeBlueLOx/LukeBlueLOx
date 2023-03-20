@@ -5,9 +5,10 @@
 </div>
 
 --- 
+
 <div align="center"> 
 
-#Python #Plotly #Dash #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
+#Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
 #PORTFOLIO - #OpenToWork
 
@@ -16,12 +17,10 @@ https://blox-land.herokuapp.com
 #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
 ---  
-
-<div align="center">  
+ 
 <img src="https://raw.githubusercontent.com/SCV2PL/SCV2PL.GitHub.IO/main/BIOHAZARD.gif" width="" height=""/>
 
 ### [SARS-CoV-2_PL_V_2.0](https://github.com/LukeBlueLOx/SARS-CoV-2_PL_V_2.0)  
-</div>
 
 ---
   
