@@ -20,7 +20,9 @@ https://blox-land.herokuapp.com
  
 <img src="https://raw.githubusercontent.com/SCV2PL/SCV2PL.GitHub.IO/main/BIOHAZARD.gif" width="" height=""/>
 
-### [SARS-CoV-2_PL_V_2.0](https://github.com/LukeBlueLOx/SARS-CoV-2_PL_V_2.0)  
+### [SARS-CoV-2_PL_V_2.0](https://github.com/LukeBlueLOx/SARS-CoV-2_PL_V_2.0)
+ 
+### [!!! SARS-CoV-2_PL_V_3.0 - Announcement !!!](https://scv2pl.github.io/SCV2PL_V_3.0-en)
 
 ---
   
