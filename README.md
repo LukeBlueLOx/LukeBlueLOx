@@ -12,7 +12,7 @@
 
 #PORTFOLIO - #OpenToWork
 
-https://blox-land.herokuapp.com
+https://blox-land.onrender.com
 
 #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
