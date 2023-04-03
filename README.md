@@ -8,7 +8,7 @@
 
 <div align="center"> 
 
-#Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
+#Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
 #PORTFOLIO - #OpenToWork
 
