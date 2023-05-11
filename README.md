@@ -1,3 +1,21 @@
+<hr>
+
+<div align="center"> 
+
+### DICOM_Luke_Accident_Project
+ 
+Support - If You Can:
+
+Wesprzyj - Jeśli Jesteś w Stanie: 
+ 
+https://lukebluelox.github.io/DICOM_Luke_Accident_Project
+
+</div> 
+
+<div align="center">  
+<img src="https://raw.githubusercontent.com/LukeBlueLOx/Django-BLOX-Land-Post_List.html/main/Screenshot from 2023-05-08 06-51-54.png" width="" height=""/>
+</div>
+
 ---
 
 <div align="center">  
