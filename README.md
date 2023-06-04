@@ -44,7 +44,7 @@ https://blox-land.onrender.com
 
 ---
   
-<img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=github_dark&layout=compact&langs_count=8&count_private=true"/>
+<img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeBlueLOx&theme=github_dark&layout=compact&langs_count=9&count_private=true"/>
 <br>  
 <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LukeBlueLOx&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"/>
   
