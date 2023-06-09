@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/dedceb745683231210021deddc8f8e770529c31b/app/src/main/ic_launcher-playstore.png" width="" height=""/>
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/d00a53a887c18c5b42cfe703f131912917bca2ce/app/src/main/ic_launcher-playstore.png" width="" height=""/>
 </div>
 
 
