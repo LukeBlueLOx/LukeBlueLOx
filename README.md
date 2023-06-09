@@ -2,8 +2,6 @@
 
 <div align="center"> 
 
-### BLOX - Paths Position Recorder
-
 ### BLOX-PPR
   
 </div> 
