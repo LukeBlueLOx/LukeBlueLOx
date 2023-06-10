@@ -12,8 +12,49 @@
 <img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/d00a53a887c18c5b42cfe703f131912917bca2ce/app/src/main/ic_launcher-playstore.png" width="" height=""/>
 </div>
 
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094000_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
 
-<div align="center"> 
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094146_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094053_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094240_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094339_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094428_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-105413_Package%20installer.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-105426_Package%20installer.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-105238_Settings.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094520_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">
+  
+<hr>
 
 Work In Progress
 
