@@ -12,6 +12,12 @@
 <img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/d00a53a887c18c5b42cfe703f131912917bca2ce/app/src/main/ic_launcher-playstore.png" width="" height=""/>
 </div>
 
+<div align="center">
+
+https://twitter.com/LukeBlueLOx/status/1667443469428699138
+
+</div> 
+
 <div align="center">  
 <img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/3dc26394a54db7170256aae1c3fa3e35fd354432/Screenshot_20230610-094000_BLOX%20-%20PPR.jpg" width="" height=""/>
 </div>
