@@ -59,7 +59,11 @@ https://twitter.com/LukeBlueLOx/status/1667443469428699138
 </div>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/51ee7b4fc3612e76608901734b19568a0ea66942/Screenshot_20230612-231827_BLOX%20-%20PPR.jpg" width="" height=""/>
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/ac2ebf183138fbf9248ccb9dc18f109a0a3da94a/Screenshot_20230613-183044_BLOX%20-%20PPR.jpg" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/BLOX-PPR/blob/ac2ebf183138fbf9248ccb9dc18f109a0a3da94a/Screenshot_20230613-183041_BLOX%20-%20PPR.jpg" width="" height=""/>
 </div>
 
 <div align="center">
