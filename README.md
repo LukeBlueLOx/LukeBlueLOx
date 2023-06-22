@@ -166,6 +166,10 @@ Adresowanie Twitter:
 https://twitter.com/LukeBlueLOx/status/1666391583652999168
 
 @CYFRA_GOV_PL @BBN_PL @MON_GOV_PL @RCB_RP @CyberWojska @MZ_GOV_PL @CentrumeZdrowia @openstreetmap @Google @googledevs @Android @jetbrains @github @ubuntu @chroniclesec @virustotal @Mandiant @niebezpiecznik @OpenAI
+
+UPDATE - 2023-06-22
+
+https://twitter.com/LukeBlueLOx/status/1671851632303251456
  
 </div>
 
