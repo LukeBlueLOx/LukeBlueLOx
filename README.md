@@ -37,7 +37,7 @@ https://lukebluelox.github.io/OSMS/pp_en.html
 
 #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
-computersnake#PORTFOLIO - #OpenToWorksnakecomputer
+💻🐍#PORTFOLIO - #OpenToWork💻🐍
 
 https://blox-land.onrender.com
 
