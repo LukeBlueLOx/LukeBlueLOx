@@ -2,6 +2,53 @@
 
 <div align="center"> 
 
+### Political Polls Results Scatter Plot In Poland
+  
+</div> 
+
+<hr>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/ac5f34a54f87c7a049237a862f674105adcdc7dd/Screenshot%20from%202023-07-24%2020-50-16.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/ac5f34a54f87c7a049237a862f674105adcdc7dd/Screenshot%20from%202023-07-24%2020-56-26.png" width="" height=""/>
+</div>
+
+<div align="center"> 
+
+
+"For Key Political Forces"
+
+The first plot is created using the method -"Locally WEighted Scatterplot Smoothing (LOWESS)":
+
+https://en.wikipedia.org/wiki/Local_regression
+
+The second plot is a scatterplot of all polls collected for the date range 2019-07-24 to 2023-06-18.
+
+Scatter Plot No. 1: 
+
+https://lukebluelox.github.io/OSMS/pp_lowess_en.html
+
+Scatter Plot No. 2:
+
+https://lukebluelox.github.io/OSMS/pp_en.html
+
+#Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
+
+computersnake#PORTFOLIO - #OpenToWorksnakecomputer
+
+https://blox-land.onrender.com
+
+#Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
+
+</div> 
+
+<hr>
+
+<div align="center"> 
+
 ### BLOX-PPR
   
 </div> 
