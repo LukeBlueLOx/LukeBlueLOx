@@ -45,6 +45,8 @@ https://blox-land.onrender.com
 
 #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
+https://twitter.com/LukeBlueLOx/status/1683587822576435201
+
 </div> 
 
 <hr>
