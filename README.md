@@ -48,6 +48,7 @@ PL: https://lukebluelox.github.io/OSMS/pp_lowess_pl.html
 Scatter Plot No. 2:
 
 EN: https://lukebluelox.github.io/OSMS/pp_en.html
+
 PL: https://lukebluelox.github.io/OSMS/pp_pl.html
 
 #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
