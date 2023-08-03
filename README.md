@@ -36,15 +36,19 @@ https://en.wikipedia.org/wiki/Local_regression
 The second plot is a scatterplot of all polls collected for the date range 2019-07-24 to 2023-06-18.
 
 (2023-07-26 - UPDATE: for the date range 2019-07-24 to 2023-07-19)
+
 (2023-08-03 - UPDATE: for the date range 2019-07-24 to 2023-07-30)
 
 Scatter Plot No. 1: 
 
-https://lukebluelox.github.io/OSMS/pp_lowess_en.html
+EN: https://lukebluelox.github.io/OSMS/pp_lowess_en.html
+
+PL: https://lukebluelox.github.io/OSMS/pp_lowess_pl.html 
 
 Scatter Plot No. 2:
 
-https://lukebluelox.github.io/OSMS/pp_en.html
+EN: https://lukebluelox.github.io/OSMS/pp_en.html
+PL: https://lukebluelox.github.io/OSMS/pp_pl.html
 
 #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
