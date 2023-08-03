@@ -9,11 +9,19 @@
 <hr>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/ac5f34a54f87c7a049237a862f674105adcdc7dd/Screenshot%20from%202023-07-24%2020-50-16.png" width="" height=""/>
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-24-33.png" width="" height=""/>
 </div>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/ac5f34a54f87c7a049237a862f674105adcdc7dd/Screenshot%20from%202023-07-24%2020-56-26.png" width="" height=""/>
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-24-08.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-27-03.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-26-19.png" width="" height=""/>
 </div>
 
 <div align="center"> 
