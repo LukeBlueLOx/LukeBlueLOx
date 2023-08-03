@@ -36,6 +36,7 @@ https://en.wikipedia.org/wiki/Local_regression
 The second plot is a scatterplot of all polls collected for the date range 2019-07-24 to 2023-06-18.
 
 (2023-07-26 - UPDATE: for the date range 2019-07-24 to 2023-07-19)
+(2023-08-03 - UPDATE: for the date range 2019-07-24 to 2023-07-30)
 
 Scatter Plot No. 1: 
 
