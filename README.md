@@ -39,6 +39,8 @@ The second plot is a scatterplot of all polls collected for the date range 2019-
 
 (2023-08-03 - UPDATE: for the date range 2019-07-24 to 2023-07-30)
 
+(2023-08-05 - UPDATE: for the date range 2019-07-24 to 2023-07-31)
+
 Scatter Plot No. 1: 
 
 EN: https://lukebluelox.github.io/OSMS/pp_lowess_en.html
