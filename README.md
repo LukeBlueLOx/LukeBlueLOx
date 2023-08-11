@@ -4,6 +4,8 @@
   
 ### Forecast Distribution Of Seats In The Republic Of Poland Sejm 🇵🇱 In The 2023 Elections
 
+### For 460 Seats
+
 </div> 
 
 <hr>
