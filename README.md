@@ -1,6 +1,30 @@
 <hr>
 
 <div align="center"> 
+  
+### Forecast Distribution Of Seats In The Republic Of Poland Sejm 🇵🇱 In The 2023 Elections
+
+</div> 
+
+<hr>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/16566f29ae179b692f637959979dd8cd157a76a0/Screenshot%20from%202023-08-11%2022-33-16.png" width="" height=""/>
+</div>
+
+<div align="center"> 
+
+https://lukebluelox.github.io/OSMS/seats.html
+
+The plot is created using the D'Hondt method:
+
+https://en.wikipedia.org/wiki/D%27Hondt_method
+
+</div>
+
+<hr>
+
+<div align="center"> 
 
 ### Political Polls Results Scatter Plot In Poland
   
