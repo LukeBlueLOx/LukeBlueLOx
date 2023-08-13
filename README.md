@@ -14,6 +14,10 @@
 <img src="https://github.com/LukeBlueLOx/OSMS/blob/16566f29ae179b692f637959979dd8cd157a76a0/Screenshot%20from%202023-08-11%2022-33-16.png" width="" height=""/>
 </div>
 
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/OSMS/blob/1c67f9e2c83b085953246276c2404ad92ced1e8a/Screenshot%20from%202023-08-13%2016-33-03.png" width="" height=""/>
+</div>
+
 <div align="center"> 
 
 https://lukebluelox.github.io/OSMS/seats.html
