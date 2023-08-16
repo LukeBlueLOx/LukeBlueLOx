@@ -20,8 +20,6 @@
 
 <div align="center"> 
 
-https://lukebluelox.github.io/OSMS/seats.html
-
 The plot is created using the D'Hondt method:
 
 https://en.wikipedia.org/wiki/D%27Hondt_method
@@ -64,7 +62,6 @@ The first plot is created using the method -"Locally WEighted Scatterplot Smooth
 https://en.wikipedia.org/wiki/Local_regression
 
 The second plot is a scatterplot of all polls collected for the date range 2019-07-24 to 2023-07-31.
-
 
 EN: https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
