@@ -61,8 +61,6 @@ The first plot is created using the method -"Locally WEighted Scatterplot Smooth
 
 https://en.wikipedia.org/wiki/Local_regression
 
-The second plot is a scatterplot of all polls collected for the date range 2019-07-24 to 2023-07-31.
-
 EN: https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 PL: https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl 
