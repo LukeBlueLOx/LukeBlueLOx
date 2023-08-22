@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-40.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-30.png" width="" height=""/>
 </div>
 
 <div align="center">  
