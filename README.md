@@ -2,78 +2,67 @@
 
 <div align="center"> 
   
-### Forecast Distribution Of Seats In The Republic Of Poland Sejm 🇵🇱 In The 2023 Elections
+###  ELECTIONS In Poland - WYBORY w POLSCE
 
-### For 460 Seats
+### ✌🇵🇱🇵🇱🇵🇱✌
 
 </div> 
 
 <hr>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/16566f29ae179b692f637959979dd8cd157a76a0/Screenshot%20from%202023-08-11%2022-33-16.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-36-06.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-36-50.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-02.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-21.png" width="" height=""/>
 </div>
 
 <div align="center">  
 <img src="https://github.com/LukeBlueLOx/OSMS/blob/1c67f9e2c83b085953246276c2404ad92ced1e8a/Screenshot%20from%202023-08-13%2016-33-03.png" width="" height=""/>
 </div>
 
-<div align="center"> 
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-40.png" width="" height=""/>
+</div>
 
-The plot is created using the D'Hondt method:
-
-https://en.wikipedia.org/wiki/D%27Hondt_method
-
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-40.png" width="" height=""/>
 </div>
 
 <hr>
 
 <div align="center"> 
 
-### Political Polls Results Scatter Plot In Poland
-  
-</div> 
+The plots are created using the methods: 
 
-<hr>
+"Locally WEighted Scatterplot Smoothing (LOWESS)" - https://en.wikipedia.org/wiki/Local_regression
 
-<div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-24-33.png" width="" height=""/>
-</div>
-
-<div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-24-08.png" width="" height=""/>
-</div>
-
-<div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-27-03.png" width="" height=""/>
-</div>
-
-<div align="center">  
-<img src="https://github.com/LukeBlueLOx/OSMS/blob/e568c7566a6c9b5a810de4f89d9fcfddc1b82285/Screenshot%20from%202023-08-03%2016-26-19.png" width="" height=""/>
-</div>
-
-<div align="center"> 
-
+D'Hondt method - https://en.wikipedia.org/wiki/D%27Hondt_method
 
 "For Key Political Forces"
-
-The first plot is created using the method -"Locally WEighted Scatterplot Smoothing (LOWESS)":
-
-https://en.wikipedia.org/wiki/Local_regression
 
 EN: https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 PL: https://blox-blue-liquid-oxygen.github.io/WYBORY_PL.pl 
 
-#Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
+#ELECTIONS #WYBORY #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GoogleSheets #GoogleCloud #GCP #Datawrapper #Render #Heroku #Django #PostgreSQL #Postgres #SQL #RPA
 
-💻🐍#PORTFOLIO - #OpenToWork💻🐍
+💻🐍#PORTFOLIO - #OpenToWork🐍💻
 
 https://blox-land.onrender.com
 
 #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
-https://twitter.com/LukeBlueLOx/status/1687147764889657348
+https://twitter.com/LukeBlueLOx/status/1693906374512591176
 
 </div> 
 
