@@ -2,6 +2,72 @@
 
 <div align="center"> 
   
+###  "Technology For The People" - "Technologia Dla Ludu"
+
+</div>
+
+<hr>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/LukeBlueLOx/blob/2149c1d9a571c97af6e74955ce14e22e5b7d19c9/BLOX%20COIN.png" width="" height=""/>
+</div>
+
+<br>
+
+<div align="center">  
+<img src="https://github.com/LukeBlueLOx/LukeBlueLOx/blob/2149c1d9a571c97af6e74955ce14e22e5b7d19c9/266166310_195419422797912_6930949857794948211_n.jpg" width="" height=""/>
+</div>
+
+<div align="center">
+
+<br>
+
+#HumanX #AI
+
+@OpenAI
+
+#CognitiveScience #Kognitywistyka
+
+#SocialDemocracy + #Transhumanism + #Transhumanitarianism
+
+#Socjaldemokracja + #Transhumanizm + #Transhumanitarianizm
+
+✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌ 
+
+#TranshumanistSocialDemocracy
+
+#SocjaldemokracjaTranshumanistyczna
+
+#SocjaldemokratyzmTranshumanistyczny
+
+#TranshumanitarianSocialDemocracy
+
+#SocjaldemokracjaTranshumanitarna
+
+#SocjaldemokratyzmTranshumanitarny
+
+#SocialDemocraticTranshumanism
+
+#TranshumanizmSocjaldemokratyczny
+
+#SocialDemocraticTranshumanitarianism
+
+#TranshumanitarianizmSocjaldemokratyczny
+
+#Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
+
+#BLOX - #BlueLiquidOxygen 
+
+"BLOX": Technical Social Organization - For Creating Useful Social Solutions
+
+"BLOX": Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
+
+</div> 
+
+<hr>
+
+<div align="center"> 
+  
 ###  ELECTIONS In Poland - WYBORY w POLSCE
 
 ### ✌🇵🇱🇵🇱🇵🇱✌
