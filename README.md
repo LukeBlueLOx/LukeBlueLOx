@@ -13,6 +13,11 @@
 </div>
 
 <br>
+<div align="center">
+https://twitter.com/LukeBlueLOx/status/1696129928310239388
+</div
+<br>
+<br>
 
 <div align="center">  
 <img src="https://github.com/LukeBlueLOx/LukeBlueLOx/blob/2149c1d9a571c97af6e74955ce14e22e5b7d19c9/266166310_195419422797912_6930949857794948211_n.jpg" width="" height=""/>
@@ -21,6 +26,8 @@
 <div align="center">
 
 <br>
+
+https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-to-license
 
 #HumanX #AI
 
