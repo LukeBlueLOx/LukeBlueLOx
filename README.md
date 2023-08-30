@@ -75,7 +75,7 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 
 <div align="center"> 
   
-###  ELECTIONS In Poland - WYBORY w POLSCE
+###  "ELECTIONS In Poland" - "WYBORY w POLSCE"
 
 ### ✌🇵🇱🇵🇱🇵🇱✌
 
@@ -84,23 +84,23 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 <hr>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-36-06.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/4d4ecaa42e9711ccb3da4ca24773d8be8afa1d9d/PLE_en.png" width="" height=""/>
 </div>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-36-50.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/4d4ecaa42e9711ccb3da4ca24773d8be8afa1d9d/PPSS_lowess_en.png" width="" height=""/>
 </div>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-02.png" width="" height=""/>
-</div>
-
-<div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-21.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/4d4ecaa42e9711ccb3da4ca24773d8be8afa1d9d/PPSS_en.png" width="" height=""/>
 </div>
 
 <div align="center">  
 <img src="https://github.com/LukeBlueLOx/OSMS/blob/1c67f9e2c83b085953246276c2404ad92ced1e8a/Screenshot%20from%202023-08-13%2016-33-03.png" width="" height=""/>
+</div>
+
+<div align="center">  
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/4d4ecaa42e9711ccb3da4ca24773d8be8afa1d9d/SSSS_en.png" width="" height=""/>
 </div>
 
 <div align="center">  
@@ -111,7 +111,7 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 <img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-40.png" width="" height=""/>
 </div>
 
-<hr>
+<br>
 
 <div align="center"> 
 
