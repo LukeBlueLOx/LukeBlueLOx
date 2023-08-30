@@ -104,11 +104,11 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 </div>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-30.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/7f34ea26a8b0ed6cfe03ae9a45b1b13c1c2f7295/STSS_en.png" width="" height=""/>
 </div>
 
 <div align="center">  
-<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/WYBORY_PL.pl/blob/d691088507653f06bd7f31ffbf3a7310b4c53d4c/Screenshot%20from%202023-08-22%2009-37-40.png" width="" height=""/>
+<img src="https://github.com/BLOX-Blue-Liquid-Oxygen/ELECTIONS_PL.en/blob/7f34ea26a8b0ed6cfe03ae9a45b1b13c1c2f7295/CSTSS_en.png" width="" height=""/>
 </div>
 
 <br>
