@@ -69,6 +69,8 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 
 "BLOX": Społeczna Organizacja Techniczna - Dla Tworzenia Rozwiązań Przydatnych Społecznie
 
+<img src="https://blox-land.onrender.com/static/blox_main/cover.86bd049317e1.png" width="" height=""/>
+
 </div> 
 
 <hr>
