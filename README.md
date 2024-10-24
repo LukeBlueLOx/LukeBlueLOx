@@ -20,7 +20,7 @@ https://twitter.com/LukeBlueLOx/status/1696129928310239388
 <br>
 
 <div align="center">  
-<img src="https://github.com/LukeBlueLOx/LukeBlueLOx/blob/2149c1d9a571c97af6e74955ce14e22e5b7d19c9/266166310_195419422797912_6930949857794948211_n.jpg" width="" height=""/>
+<img src="https://github.com/LukeBlueLOx/LukeBlueLOx/blob/214f96797e9b32f3950f85addcffa3850d6524d8/BLOX-SolutionsForge.png" width="" height=""/>
 </div>
 
 <div align="center">
