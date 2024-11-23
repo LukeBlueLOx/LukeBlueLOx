@@ -31,8 +31,6 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 
 #HumanX #AI
 
-@OpenAI
-
 #CognitiveScience #Kognitywistyka
 
 #SocialDemocracy + #Transhumanism + #Transhumanitarianism
