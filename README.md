@@ -37,7 +37,7 @@ https://commons.m.wikimedia.org/wiki/File:Cognitive_Science_Hexagon.svg#mw-jump-
 
 #Socjaldemokracja + #Transhumanizm + #Transhumanitarianizm
 
-✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌ 
+✌♻️🌌🚀🌎🌍🌏🛰🌌♻️✌ 
 
 #TranshumanistSocialDemocracy
 
